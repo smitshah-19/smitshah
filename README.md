@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Smit Shah
 =================================================================================================================================
 
-ML-Computer Vision-AI Enthusiast
+ML-AI Enthusiast
 -----------------------------
 
 I started my coding education upon receiving an appointment as a Student Research Assistant at the University of Siegen in Siegen, Germany. In this role, my primary duties were the development of programs and the composition of code for various projects including Machine Learning, Computer Vision, Data Science, and Deep Learning. During this period, I actively pursued a wide range of courses in order to expand my knowledge and comprehension of numerous subjects. Over time, my passion in the subject deepened significantly, leading me to pursue more knowledge. As a result, I secured an internship position as a Machine Learning intern at U-Glow Gmbh, located in Mülheim, North Rhine-Westphalia, Germany. I have just been a participant in an industry research endeavor that centers on the creation and advancement of an Energy optimization toolchain. I was tasked with the design and implementation of a pipeline that utilizes unsupervised machine learning techniques for the purpose of pre-processing and anomaly detection. Following a substantial period of practical engagement, I successfully completed my Master's Thesis at Fraunhofer IMS in Duisburg, Germany. The focus of my research was the non-contact assessment of the Valsalva Maneuver. The objective of the study was to caution those who often engage in this respiratory technique.
